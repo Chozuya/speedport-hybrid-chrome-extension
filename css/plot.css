@@ -1,0 +1,12 @@
+.lteinfo_lightbox_container #chart1,
+.lteinfo_lightbox_container #chart2 {
+    height: 170px;
+    width: 350px;
+    margin-top: 15px;
+    position: relative;
+    float: left;
+}
+
+.lteinfo_lightbox_container .jqplot-yaxis-tick {
+    margin-right: 15px;
+}
