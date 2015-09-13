@@ -18,6 +18,7 @@ The extension refreshes the LTE antenna values every second and shows it in the 
 ## Firmware
 The extension is tested with the following firmware versions:
 
+ * v050124.02.00.010 (9/2015)
  * v050124.02.00.009 (5/2015)
  * v050124.01.00.057 (2/2015)
  
